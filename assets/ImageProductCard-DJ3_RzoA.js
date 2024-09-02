@@ -1,0 +1,1 @@
+import{j as t}from"./index-BHdHH20D.js";const o=({src:e,alt:r})=>t.jsx(t.Fragment,{children:t.jsx("img",{height:"260px",src:e,className:"col-md-6 object-fit-cover",alt:r,loading:"lazy"})});export{o as default};
